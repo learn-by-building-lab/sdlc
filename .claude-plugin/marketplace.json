@@ -1,0 +1,12 @@
+{
+  "name": "sdlc-mentor",
+  "owner": { "name": "SuprajyotsnaDasari-lab" },
+  "description": "Skills that mentor beginners through building software, one small step at a time.",
+  "plugins": [
+    {
+      "name": "sdlc-mentor",
+      "source": "./",
+      "description": "Beginner mentor that guides you through building an app or website, one small step at a time."
+    }
+  ]
+}
