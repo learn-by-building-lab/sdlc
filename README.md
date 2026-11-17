@@ -28,7 +28,7 @@ Each folder in `skills/` is one skill containing a `SKILL.md` file. Install all 
 ### Claude Code, quickest way (plugin)
 Run these as two separate commands inside Claude Code:
 ```
-/plugin marketplace add SuprajyotsnaDasari-lab/sdlc
+/plugin marketplace add learn-by-building-lab/sdlc
 /plugin install sdlc-mentor@sdlc-mentor
 ```
 Then start a new session. The skills appear as `/sdlc-mentor:sdlc-mentor`, `/sdlc-mentor:sdlc-mentor-help` and so on.
@@ -36,7 +36,7 @@ Then start a new session. The skills appear as `/sdlc-mentor:sdlc-mentor`, `/sdl
 ### Claude Code, manual copy
 1. Download the project:
    ```bash
-   git clone https://github.com/SuprajyotsnaDasari-lab/sdlc.git
+   git clone https://github.com/learn-by-building-lab/sdlc.git
    cd sdlc
    ```
 2. Copy the skills into your personal skills folder (they work in every project):
@@ -51,7 +51,7 @@ Then start a new session. The skills appear as `/sdlc-mentor:sdlc-mentor`, `/sdl
 ### Codex (CLI and desktop app)
 Plugin install (same two commands for the desktop app, then restart the app):
 ```bash
-codex plugin marketplace add SuprajyotsnaDasari-lab/sdlc
+codex plugin marketplace add learn-by-building-lab/sdlc
 codex plugin add sdlc-mentor@sdlc-mentor
 ```
 Or copy the skills by hand (Codex reads `SKILL.md` files from `~/.agents/skills`):

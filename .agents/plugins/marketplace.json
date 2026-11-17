@@ -6,7 +6,7 @@
       "name": "sdlc-mentor",
       "source": {
         "source": "url",
-        "url": "https://github.com/SuprajyotsnaDasari-lab/sdlc.git",
+        "url": "https://github.com/learn-by-building-lab/sdlc.git",
         "ref": "main"
       },
       "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },

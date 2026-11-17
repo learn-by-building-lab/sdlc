@@ -2,7 +2,7 @@
   "name": "sdlc-mentor",
   "description": "Beginner mentor that tunes a project idea, then guides building it through the software lifecycle in tiny verified steps with role personas.",
   "version": "0.1.0",
-  "author": { "name": "SuprajyotsnaDasari-lab" },
-  "homepage": "https://github.com/SuprajyotsnaDasari-lab/sdlc",
-  "repository": "https://github.com/SuprajyotsnaDasari-lab/sdlc"
+  "author": { "name": "learn-by-building-lab" },
+  "homepage": "https://github.com/learn-by-building-lab/sdlc",
+  "repository": "https://github.com/learn-by-building-lab/sdlc"
 }

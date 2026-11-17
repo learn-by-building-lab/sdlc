@@ -1,6 +1,6 @@
 {
   "name": "sdlc-mentor",
-  "owner": { "name": "SuprajyotsnaDasari-lab" },
+  "owner": { "name": "learn-by-building-lab" },
   "description": "Skills that mentor beginners through building software, one small step at a time.",
   "plugins": [
     {
